@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # usma-it394-polls
 This is a version of the official Django tutorial application configured for deployment into a production environment on Heroku.
 
@@ -89,3 +90,6 @@ heroku git:remote –a immense-scrubland-9864
 
 ## Procfile
 Heroku uses the commands in the Procfile to run your application.  See https://devcenter.heroku.com/articles/procfile for additional information.
+=======
+# mysite
+>>>>>>> b6a06a7427ab69d152e3aee18aded422d8c8c045
